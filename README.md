@@ -5,7 +5,7 @@ Full Stack Developer. Astrophysicist. Teacher.
 ----------------------------------------------
 
 *   🌍  I am based in Asheville, NC
-*   🖥️  See my portfolio at [jeredleisey.com](http://jeredleisey.com)
+### *   🖥️  See my portfolio at [jeredleisey.com](http://jeredleisey.com)
 *   ✉️  You can contact me at [jered.leisey@gmail.com](mailto:jered.leisey@gmail.com)
 *   🧠  I am currently learning everything Typescript, C++, and Python
 
