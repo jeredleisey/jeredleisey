@@ -1,7 +1,7 @@
 Hi 👋 My name is Jered Leisey
 =============================
 
-Full Stack Developer. Astrophysicist. Teacher.
+Full Stack Developer
 ----------------------------------------------
 
 *   🌍  I am based in Asheville, NC
