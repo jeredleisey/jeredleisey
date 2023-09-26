@@ -4,10 +4,10 @@ Hi 👋 My name is Jered Leisey
 Full Stack Developer
 ----------------------------------------------
 
-*   🌍  I am based in Asheville, NC
+*   🌍  I am based in Silver Spring, MD
 <!-- *   🖥️  See my portfolio at [jeredleisey.com](http://jeredleisey.com) -->
 *   ✉️  You can contact me at [jered.leisey@gmail.com](mailto:jered.leisey@gmail.com)
-*   🧠  I am currently learning everything Typescript, C++, and Python
+*   🧠  I am currently learning everything Typescript, C#, and Python
 
 ### Skills 
 <p align="left">
