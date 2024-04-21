@@ -1,4 +1,4 @@
-# 🐙 Jered Leisey
+# 📡 Jered Leisey
 
 **`Designer & Developer`**
 
