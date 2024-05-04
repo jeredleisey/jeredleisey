@@ -2,9 +2,7 @@
 
 **`Designer & Developer`**
 
-I am a full-stack developer and physics nerd on a constant pursuit to better understand the world around me.
-
-*   🌍  I am based in Washington, DC
+*   🌍  Based in Washington, DC area
 *   🖥️  See my portfolio at [jeredleisey.com](https://www.jeredleisey.com)
 *   ✉️  You can contact me at [jered.leisey@gmail.com](mailto:jered.leisey@gmail.com)
 
