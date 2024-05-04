@@ -51,5 +51,3 @@ I am a full-stack developer and physics nerd on a constant pursuit to better und
 ### Socials
                   
 <p align="left"> <a href="https://www.github.com/jeredleisey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jeredleisey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-![Visitor Count](https://profile-counter.glitch.me/jeredleisey/count.svg)
