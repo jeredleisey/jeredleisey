@@ -2,7 +2,7 @@
 
 **`Designer & Developer`**
 
-*   🌍  Based in Washington, DC area
+*   🌍  Based in Asheville, NC
 *   🖥️  See my portfolio at [jeredleisey.com](https://www.jeredleisey.com)
 *   ✉️  You can contact me at [jered.leisey@gmail.com](mailto:jered.leisey@gmail.com)
 
